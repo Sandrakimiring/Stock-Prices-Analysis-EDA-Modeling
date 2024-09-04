@@ -18,6 +18,7 @@ This project involves analyzing stock prices for MasterCard and Visa from 2008 t
 - **`notebooks/`**
   - **`stock_prices_analysis.ipynb:`** Jupyter Notebook containing the entire workflow, from data preprocessing and exploratory data analysis to model training and prediction.
 
+
 - **`data/`**
   - **`MVR.csv:`** Raw dataset containing historical stock prices for MasterCard and Visa.
 
